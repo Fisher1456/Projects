@@ -1,0 +1,28 @@
+buttons are clicked twice becuase there are 2 buttons active at the same time, 
+so when one is clicked the other one is clicked also which results in both being clicked.
+
+run:
+start() was called
+Start button pressed
+About to start running
+Level 1 initialized
+Current level selected, isInGame
+Entered the shop
+Stopped running
+reset() was called
+About to start running
+Level 2 initialized
+Current level selected, isInGame
+Entered the shop
+Stopped running
+reset() was called 			//Here the button was clicked once, but the code was executed tiwce
+About to start running
+reset() was called
+About to start running
+Level 3 initialized
+Current level selected, isInGame
+Level 4 initialized
+Current level selected, isInGame
+Stopped running
+Stopped running
+BUILD SUCCESSFUL (total time: 36 seconds)

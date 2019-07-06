@@ -1,0 +1,40 @@
+Added a few boolean vars to monitor whether a button was clicked or not. 
+This way every shop button could only be clicked once.
+
+run:
+start() was called
+Start button pressed
+About to start running
+Level 1 initialized
+Current level selected, isInGame
+Entered the shop
+Stopped running
+reset() was called
+About to start running
+Level 2 initialized
+Current level selected, isInGame
+Entered the shop
+Stopped running
+reset() was called
+About to start running
+Level 3 initialized
+Current level selected, isInGame
+Entered the shop
+Stopped running
+reset() was called
+About to start running
+Level 4 initialized
+Current level selected, isInGame
+Entered the shop
+Stopped running
+reset() was called					//Here the game tries to start, but since there are no more levels, it fails to do so
+About to start running
+Current level selected, isInGame
+Entered the shop
+Stopped running
+reset() was called
+About to start running
+Current level selected, isInGame
+Entered the shop
+Stopped running
+BUILD SUCCESSFUL (total time: 1 minute 13 seconds)

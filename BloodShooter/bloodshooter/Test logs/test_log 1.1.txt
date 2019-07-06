@@ -1,0 +1,35 @@
+run:
+start() was called
+Start button pressed
+About to start running
+Level 1 initialized
+Current level selected, isInGame
+Entered the shop
+Stopped running
+reset() was called
+About to start running
+Level 2 initialized
+Current level selected, isInGame
+Entered the shop
+Stopped running
+reset() was called
+About to start running
+Level 3 initialized
+Current level selected, isInGame
+reset() was called
+About to start running
+Entered the shop
+Stopped running
+Entered the shop
+Stopped running
+reset() was called
+About to start running
+reset() was called
+About to start running
+reset() was called
+About to start running
+reset() was called
+Level 4 initialized
+Current level selected, isInGame
+About to start running
+BUILD SUCCESSFUL (total time: 53 seconds)
