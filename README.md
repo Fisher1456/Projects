@@ -1,2 +1,2 @@
 # Projects
-The folder with my video games/projects
+The folder with my projects
